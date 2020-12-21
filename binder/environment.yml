@@ -1,0 +1,38 @@
+name: laz
+channels:
+  - conda-forge
+dependencies:
+  - datashader
+  - datashape
+  - geotiff
+  - imageio
+  - importlib-metadata
+  - importlib_metadata
+  - ipykernel
+  - ipython
+  - ipython_genutils
+  - json5
+  - jsoncpp
+  - jsonschema
+  - jupyter_client
+  - jupyter_core
+  - jupyterlab
+  - jupyterlab_pygments
+  - jupyterlab_server
+  - laspy
+  - lastools
+  - laszip
+  - laz-perf
+  - matplotlib
+  - matplotlib-base
+  - nbgitpuller
+  - numpy
+  - pandas
+  - pdal
+  - pip
+  - python-pdal
+  - s3fs
+  - pip:
+    - lazrs
+    - pylas
+prefix: C:\Users\niko8816\Anaconda3\envs\laz
