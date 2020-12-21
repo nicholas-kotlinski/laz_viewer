@@ -5,6 +5,7 @@ dependencies:
   - datashader
   - datashape
   - geotiff
+  - git-lfs
   - imageio
   - importlib-metadata
   - importlib_metadata
